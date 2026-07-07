@@ -20,38 +20,62 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 
 # Technical Skills
 
-### Programming
+### Programming Languages
 
-- SQL
-- Python
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 
-- PostgreSQL
-- MySQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Data Analysis
 
-- Pandas
-- NumPy
-- Excel
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Data Visualization
+### Visualization
 
-- Power BI
-- Matplotlib
-- Seaborn
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ### Machine Learning
 
-- Scikit-Learn
-- XGBoost
-- CatBoost
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
 
-### Version Control
+### Tools
 
-- Git
-- GitHub
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+---
+
+---
+
+
+# GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shawincible&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawincible&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shawincible&theme=github-dark&hide_border=true"/>
+
+</p>
+
 
 ---
 
@@ -75,33 +99,15 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 
 # Featured Projects
 
-### SQL
+# Featured Projects
 
-- Enterprise Library Management System
-- Retail Sales Analytics
-- Banking Analytics
-- Customer Segmentation using SQL
-
-### Python
-
-- Exploratory Data Analysis
-- Customer Churn Analysis
-- Data Cleaning Automation
-- Business Insights using Python
-
-### Power BI
-
-- Executive Sales Dashboard
-- Customer Performance Dashboard
-- Operational KPI Dashboard
-- Workforce Analytics Dashboard
-
-### Machine Learning
-
-- Telecom Churn Prediction
-- House Price Prediction
-- Student Performance Prediction
-- End-to-End ML Pipeline
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 📚 Enterprise Library Management System | Database Design, Stored Procedures, Views, Business Queries | PostgreSQL |
+| 📈 Retail Sales Analytics | Business KPI Analysis using SQL | SQL |
+| 📊 Executive Sales Dashboard | Interactive Business Dashboard | Power BI |
+| 🐍 Customer Analytics | Data Cleaning, EDA & Visualization | Python |
+| 🤖 Telecom Churn Prediction | Machine Learning Classification | Python, Scikit-Learn |
 
 ---
 
@@ -134,5 +140,12 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 **Email:** *(shawincible@outlook.com)*
 
 ---
+
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shawincible&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 ⭐ *Thank you for visiting my GitHub profile.*
