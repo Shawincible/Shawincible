@@ -57,8 +57,6 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 
 ---
 
----
-
 
 # GitHub Statistics
 
@@ -79,6 +77,7 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 
 ---
 
+
 # Core Competencies
 
 - Business Analytics
@@ -95,9 +94,9 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 - Stakeholder Management
 - Process Improvement
 
+
 ---
 
-# Featured Projects
 
 # Featured Projects
 
@@ -109,7 +108,9 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 | 🐍 Customer Analytics | Data Cleaning, EDA & Visualization | Python |
 | 🤖 Telecom Churn Prediction | Machine Learning Classification | Python, Scikit-Learn |
 
+
 ---
+
 
 # Current Focus
 
@@ -119,7 +120,9 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 - Machine Learning
 - End-to-End Analytics Projects
 
+
 ---
+
 
 # GitHub Goals
 
@@ -131,13 +134,16 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 
 ✔ Continuously improve analytical and business problem-solving skills
 
+
 ---
+
 
 # Connect With Me
 
 **LinkedIn:** *(https://www.linkedin.com/in/shawincible/)*
 
 **Email:** *(shawincible@outlook.com)*
+
 
 ---
 
@@ -147,5 +153,8 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 <img src="https://komarev.com/ghpvc/?username=Shawincible&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
+
+---
+
 
 ⭐ *Thank you for visiting my GitHub profile.*
