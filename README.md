@@ -132,9 +132,11 @@ This GitHub portfolio showcases enterprise-grade projects in **SQL, Python, Powe
 
 <img src="https://komarev.com/ghpvc/?username=Shawincible&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
+<p align="center">
+
+⭐ Thank you for visiting my GitHub profile.
+
 </p>
 
+
 ---
-
-
-⭐ *Thank you for visiting my GitHub profile.*
